@@ -19,17 +19,17 @@ These are all intended to work in unison, so feel free to mix and match to suit 
 ### A La Carte
 
 - [BetterBandages](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterbandages) - Craft medical bandages directly from normal bandages + aloe cream
+- [BetterBlades](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterblades) - Increases melee damange on bladed weapons, spears, and axes
 - [BetterBridges](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterridges) - Allows advanced rotation on garage door and drawbridge
 - [BetterBuffs](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterbuffs) - Tweaks (de)buffs; i.e. shorter NearDeathTrauma and no more being thirsty/hungry at 190%
-- [BetterBuffs](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterdyes) - Allows all colored dyes to be crafted from paint
 - [BetterCement](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-bettercement) - Create 'Cement Mix' directly in the cement mixer
+- [BetterDyes](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterdyes) - Allows all colored dyes to be crafted from paint
 - [BetterPowertools](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterpowertools) - Makes the Chainsaw, Auger, and Nailgun way more useful
-- [BetterSpears](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterspears) - Gives the spears a little more damage
 - [BetterVehicles](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-bettervehicles) - Bigger and Faster Vehicles; more storage and +25% normal speed (double that in turbo)
 - [BigBackpack](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-megabackpack) - Increases the size of the player inventory to 60
 - [MegaBackpack](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-megabackpack) - Increases the size of the player inventory to 120
-- [CraftAcid](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-craftacid) - Craftable Acid
-- [CraftBeaker](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-craftbeaker) - Adds the beaker as a craftable item from the forge (requires crucible)
+- CraftAcid - Moved to `MissingCraftables`
+- CraftBeaker - Moved to `MissingCraftables`
 - [CraftJail](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-craftjail) - Adds the jaildoor back into the game as a craftable item
 - [CraftSchematics](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-craftschematics) - Create weapon mod schematics using the table saw
 - CraftSpikes - REMOVED as of A20 (no longer supported by the game)
@@ -44,6 +44,7 @@ These are all intended to work in unison, so feel free to mix and match to suit 
 - [MegaStacks](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-megastacks) - Vastly increases stack sizes
 - [MoreBooks](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-morebooks) - Increases the chance of finding books  **- conflicts with megabooks**
 - [MegaBooks](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-megabooks) - Significantly increases the chance of finding books  **- conflicts with morebooks**
+- [MissingCraftables](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-missingcraftables) - Adds missing craftable items to the game (Acid, Beaker, SewingKit)
 - [NightFog](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-nightfog) - Thick fog rolls in at night
 - [PickMeUp](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-pickmeup) - Allows for certain blocks to be picked up after placing.
 
