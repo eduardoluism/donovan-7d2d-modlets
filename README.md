@@ -25,7 +25,7 @@ Any modlets added after the AiO will overrule what's included in the AiO, esenti
 
 - [BetterBandages](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterbandages) - Craft medical bandages directly from normal bandages + aloe cream
 - [BetterBlades](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterblades) - Increases melee damange on bladed weapons, spears, and axes
-- [BetterBridges](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterridges) - Allows advanced rotation on garage door and drawbridge
+- [BetterBridges](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterbridges) - Allows advanced rotation on garage door and drawbridge
 - [BetterBuffs](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterbuffs) - Tweaks (de)buffs; i.e. shorter NearDeathTrauma and no more being thirsty/hungry at 190%
 - [BetterCement](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-bettercement) - Create 'Cement Mix' directly in the cement mixer
 - [BetterDyes](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterdyes) - Allows all colored dyes to be crafted from paint
@@ -42,15 +42,13 @@ Any modlets added after the AiO will overrule what's included in the AiO, esenti
 - [BigBackpack](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-megabackpack) - Increases the size of the player inventory to 60
 - [MegaBackpack](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-megabackpack) - Increases the size of the player inventory to 120
 - [CraftableJail](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-craftablejail) - Adds the jaildoor back into the game as a craftable item
-- [CraftableParts](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-craftableparts) - Adds recipes for all weapon and armor parts
-- CraftSpikes - REMOVED as of A20 (no longer supported by the game)
 - [LevelFaster](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-levelfaster) - Increases the experience gain on most items
 - [MorePerks](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-moreperks) - Increases the amount of perks points received per level by 2 **- conflicts with megaperks**
 - [MegaPerks](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-megaperks) - Increases the amount of perks points received per level by 4 **- conflicts with moreperks**
 - [MoreLootbags](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-morelootbags) - Increases the drop rates on zombie lootbags (normal: 5%, feral: 10%, irradiated: 20%) **- conflicts with megalootbags**
 - [MegaLootbags](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-megalootbags) - Dramatically increases the drop rates on zombie lootbags (normal: 20%, feral: 50%, irradiated: 80%) **- conflicts with morelootbags**
-- *[MegaStacks](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-megastacks) - Vastly increases stack sizes
-- *[MoreBooks](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-morebooks) - Increases the chance of finding books  **- conflicts with megabooks**
+- [MegaStacks](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-megastacks) - Vastly increases stack sizes
+- [MoreBooks](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-morebooks) - Increases the chance of finding books  **- conflicts with megabooks**
 - [MegaBooks](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-megabooks) - Significantly increases the chance of finding books  **- conflicts with morebooks**
 - [ModSchematics](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-modschematics) - Turn mods into schematics
 - [NightFog](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-nightfog) - Thick fog rolls in at night
@@ -66,6 +64,7 @@ _Plus any of the mods listed in the AiO section can also be used a la carte_
 - BetterSpears - incorporated into `BetterBlades`
 - CraftAcid - Incorporated into `Craftables`
 - CraftBeaker - Incorporated into `Craftables`
+- CraftSpikes - REMOVED as of A20 (no longer supported by the game)
 
 ## History
 
