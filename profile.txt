@@ -8,8 +8,9 @@ https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterdye
 https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-betterpowertools
 https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-bettervehicles
 https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-bigbackpack
+https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-craftablejail
+https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-craftableparts
 https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-craftables
-https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-craftjail
 https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-lessgrind
 https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-levelfaster
 https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-longerlootbags

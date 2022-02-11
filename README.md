@@ -41,7 +41,8 @@ Any modlets added after the AiO will overrule what's included in the AiO, esenti
 
 - [BigBackpack](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-megabackpack) - Increases the size of the player inventory to 60
 - [MegaBackpack](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-megabackpack) - Increases the size of the player inventory to 120
-- [CraftJail](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-craftjail) - Adds the jaildoor back into the game as a craftable item
+- [CraftableJail](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-craftablejail) - Adds the jaildoor back into the game as a craftable item
+- [CraftableParts](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-craftableparts) - Adds recipes for all weapon and armor parts
 - CraftSpikes - REMOVED as of A20 (no longer supported by the game)
 - [LevelFaster](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-levelfaster) - Increases the experience gain on most items
 - [MorePerks](https://github.com/donovan522/donovan-7d2d-modlets/tree/stable/donovan-moreperks) - Increases the amount of perks points received per level by 2 **- conflicts with megaperks**
